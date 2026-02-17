@@ -20,7 +20,7 @@ Base inicial do browser game inspirado em Pokémon/Digimon usando **Next.js + Su
    ```bash
    cp .env.example .env.local
    ```
-3. Preencha credenciais do Supabase.
+3. As credenciais do Supabase já estão preenchidas no `.env.example` para teste rápido (ajuste se quiser usar outro projeto).
 4. Rode o projeto:
    ```bash
    npm run dev
